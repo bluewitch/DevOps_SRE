@@ -2,6 +2,7 @@
 SRE (Site Reliability Engineering)
 
 - `devops_installation.sh` for setting up DevOps on a fresh Ubuntu Unit
+
 Save the script in a file (e.g., `devops_installation.sh`), make it executable using `chmod +x devops_installation`
 
 - `privacy_installation.sh` for setting up network privacy and secure reliable browsers
